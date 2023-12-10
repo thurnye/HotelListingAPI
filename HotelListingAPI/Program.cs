@@ -27,6 +27,9 @@ builder.Host.UseSerilog((ctx, lc) =>
 
 var app = builder.Build();
 
+//This will log in the type of request that comes in like GET other data
+app.UseSerilogRequestLogging();
+
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
