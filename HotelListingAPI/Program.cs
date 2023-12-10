@@ -1,4 +1,6 @@
-﻿var builder = WebApplication.CreateBuilder(args);
+﻿using Serilog;
+
+var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
@@ -16,8 +18,17 @@ builder.Services.AddCors(options =>
              .AllowAnyMethod());
 });
 
+//Add Serilog
+builder.Host.UseSerilog((ctx, lc) =>
+    lc.WriteTo
+        .Console()
+        .ReadFrom
+        .Configuration(ctx.Configuration));
 
 var app = builder.Build();
+
+//This will log in the type of request that comes in like GET other data
+app.UseSerilogRequestLogging();
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
