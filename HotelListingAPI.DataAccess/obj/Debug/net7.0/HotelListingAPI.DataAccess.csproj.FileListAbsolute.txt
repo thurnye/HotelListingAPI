@@ -1,0 +1,17 @@
+/Users/dan_tonye/Desktop/Programs/Portfolio Projects/HotelListingAPI/HotelListingAPI.DataAccess/bin/Debug/net7.0/HotelListingAPI.DataAccess.deps.json
+/Users/dan_tonye/Desktop/Programs/Portfolio Projects/HotelListingAPI/HotelListingAPI.DataAccess/bin/Debug/net7.0/HotelListingAPI.DataAccess.runtimeconfig.json
+/Users/dan_tonye/Desktop/Programs/Portfolio Projects/HotelListingAPI/HotelListingAPI.DataAccess/bin/Debug/net7.0/HotelListingAPI.DataAccess.dll
+/Users/dan_tonye/Desktop/Programs/Portfolio Projects/HotelListingAPI/HotelListingAPI.DataAccess/bin/Debug/net7.0/HotelListingAPI.DataAccess.pdb
+/Users/dan_tonye/Desktop/Programs/Portfolio Projects/HotelListingAPI/HotelListingAPI.DataAccess/obj/Debug/net7.0/HotelListingAPI.DataAccess.csproj.AssemblyReference.cache
+/Users/dan_tonye/Desktop/Programs/Portfolio Projects/HotelListingAPI/HotelListingAPI.DataAccess/obj/Debug/net7.0/HotelListingAPI.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dan_tonye/Desktop/Programs/Portfolio Projects/HotelListingAPI/HotelListingAPI.DataAccess/obj/Debug/net7.0/HotelListingAPI.DataAccess.AssemblyInfoInputs.cache
+/Users/dan_tonye/Desktop/Programs/Portfolio Projects/HotelListingAPI/HotelListingAPI.DataAccess/obj/Debug/net7.0/HotelListingAPI.DataAccess.AssemblyInfo.cs
+/Users/dan_tonye/Desktop/Programs/Portfolio Projects/HotelListingAPI/HotelListingAPI.DataAccess/obj/Debug/net7.0/HotelListingAPI.DataAccess.csproj.CoreCompileInputs.cache
+/Users/dan_tonye/Desktop/Programs/Portfolio Projects/HotelListingAPI/HotelListingAPI.DataAccess/obj/Debug/net7.0/HotelListingAPI.DataAccess.dll
+/Users/dan_tonye/Desktop/Programs/Portfolio Projects/HotelListingAPI/HotelListingAPI.DataAccess/obj/Debug/net7.0/refint/HotelListingAPI.DataAccess.dll
+/Users/dan_tonye/Desktop/Programs/Portfolio Projects/HotelListingAPI/HotelListingAPI.DataAccess/obj/Debug/net7.0/HotelListingAPI.DataAccess.pdb
+/Users/dan_tonye/Desktop/Programs/Portfolio Projects/HotelListingAPI/HotelListingAPI.DataAccess/obj/Debug/net7.0/HotelListingAPI.DataAccess.genruntimeconfig.cache
+/Users/dan_tonye/Desktop/Programs/Portfolio Projects/HotelListingAPI/HotelListingAPI.DataAccess/obj/Debug/net7.0/ref/HotelListingAPI.DataAccess.dll
+/Users/dan_tonye/Desktop/Programs/Portfolio Projects/HotelListingAPI/HotelListingAPI.DataAccess/bin/Debug/net7.0/HotelListingAPI.Models.dll
+/Users/dan_tonye/Desktop/Programs/Portfolio Projects/HotelListingAPI/HotelListingAPI.DataAccess/bin/Debug/net7.0/HotelListingAPI.Models.pdb
+/Users/dan_tonye/Desktop/Programs/Portfolio Projects/HotelListingAPI/HotelListingAPI.DataAccess/obj/Debug/net7.0/HotelListingAPI.DataAccess.csproj.CopyComplete
