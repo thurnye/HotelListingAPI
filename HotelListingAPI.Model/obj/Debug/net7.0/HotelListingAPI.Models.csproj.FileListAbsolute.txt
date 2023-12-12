@@ -1,0 +1,11 @@
+/Users/dan_tonye/Desktop/Programs/Portfolio Projects/HotelListingAPI/HotelListingAPI.Model/bin/Debug/net7.0/HotelListingAPI.Models.deps.json
+/Users/dan_tonye/Desktop/Programs/Portfolio Projects/HotelListingAPI/HotelListingAPI.Model/bin/Debug/net7.0/HotelListingAPI.Models.dll
+/Users/dan_tonye/Desktop/Programs/Portfolio Projects/HotelListingAPI/HotelListingAPI.Model/bin/Debug/net7.0/HotelListingAPI.Models.pdb
+/Users/dan_tonye/Desktop/Programs/Portfolio Projects/HotelListingAPI/HotelListingAPI.Model/obj/Debug/net7.0/HotelListingAPI.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dan_tonye/Desktop/Programs/Portfolio Projects/HotelListingAPI/HotelListingAPI.Model/obj/Debug/net7.0/HotelListingAPI.Models.AssemblyInfoInputs.cache
+/Users/dan_tonye/Desktop/Programs/Portfolio Projects/HotelListingAPI/HotelListingAPI.Model/obj/Debug/net7.0/HotelListingAPI.Models.AssemblyInfo.cs
+/Users/dan_tonye/Desktop/Programs/Portfolio Projects/HotelListingAPI/HotelListingAPI.Model/obj/Debug/net7.0/HotelListingAPI.Models.csproj.CoreCompileInputs.cache
+/Users/dan_tonye/Desktop/Programs/Portfolio Projects/HotelListingAPI/HotelListingAPI.Model/obj/Debug/net7.0/HotelListingAPI.Models.dll
+/Users/dan_tonye/Desktop/Programs/Portfolio Projects/HotelListingAPI/HotelListingAPI.Model/obj/Debug/net7.0/refint/HotelListingAPI.Models.dll
+/Users/dan_tonye/Desktop/Programs/Portfolio Projects/HotelListingAPI/HotelListingAPI.Model/obj/Debug/net7.0/HotelListingAPI.Models.pdb
+/Users/dan_tonye/Desktop/Programs/Portfolio Projects/HotelListingAPI/HotelListingAPI.Model/obj/Debug/net7.0/ref/HotelListingAPI.Models.dll
